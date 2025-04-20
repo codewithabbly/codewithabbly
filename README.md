@@ -1,5 +1,6 @@
 ### Hello! 👋
-I am Abigail 😄
+I am Abigail 😄 
+
 ⚡ Fun fact: that lizard was chilling on the seat of a plastic chair in my classroom
 
 <!--
